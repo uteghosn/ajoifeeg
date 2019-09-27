@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aaxahduuha.craigsart.org/sitemap.xml
